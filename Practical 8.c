@@ -1,3 +1,5 @@
+//In this Practical we are going to create a food ordering system ..
+
 #include <stdio.h>
 void main()
 {
