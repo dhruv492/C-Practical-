@@ -1,4 +1,4 @@
-//In This Experiment We are going to Create a Game that simulates a matchstick game between the user and the computer.
+//In This Practical We are going to Create a Game that simulates a matchstick game between the user and the computer.
 
 #include <stdio.h>
 void main()
